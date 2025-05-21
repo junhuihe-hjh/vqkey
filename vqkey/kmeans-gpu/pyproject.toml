@@ -7,7 +7,7 @@ name = "kmeans-gpu"
 version = "0.1"
 description = "A k-means implementation for GPU"
 authors = [
-    { email="" }
+    { email="junhuihe.hjh@outlook.com" }
 ]
 dependencies = [
     "torch"
